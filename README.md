@@ -22,4 +22,4 @@ You can run 5 different algorithms.
 ### Algorithm Ada 
 ./stream_bfly Ada 
 
-Insert the input path, and other settings related to different algorithms. Finally, you will be able to see the results in your output path. As an example, see the output of graph "in.github".
+Insert the input path, and other settings related to different algorithms. Finally, you will be able to see the results in the output path, you specified. As an example, see the output of graph "in.github".
