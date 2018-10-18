@@ -4,7 +4,7 @@ We consider the estimation of properties on massive bipartite graph streams, whe
 
 Use cmake to generate the exe file. The exe file is named __"stream_bfly"__.
 
-You can run 5 different options.
+You can run 5 different algorithms.
 
 ### Exact Algorithm (Incrementally updating the number of butterflies)
 ./stream_bfly exact 
@@ -22,4 +22,4 @@ You can run 5 different options.
 ### Algorithm Ada 
 ./stream_bfly Ada 
 
-Insert the input path, and other settings related to different algorithms. Finally, you will be able to see the results in your output path
+Insert the input path, and other settings related to different algorithms. Finally, you will be able to see the results in your output path. As an example, see the output of graph "in.github".
